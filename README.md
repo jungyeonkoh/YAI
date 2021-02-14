@@ -16,3 +16,5 @@
 | DenseNet | Jan 19, 2021 
 | CycleGAN | Jan 26, 2021 | MRI 영상 translation
 | VisionTransformer | Feb 2, 2021 |
+| DeepFace | Feb 9, 2021 |
+| SRGAN | Feb 16, 2021 |
